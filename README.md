@@ -9,7 +9,7 @@ Built by **Oscar J. Villa García** · [ojviga@gmail.com](mailto:ojviga@gmail.co
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/oscarjvilla290/ai-document-processor.git
+git clone https://github.com/oscarj290/ai-document-processor.git
 cd ai-document-processor
 pip install -r requirements.txt
 echo "ANTHROPIC_API_KEY=your_key_here" > .env
